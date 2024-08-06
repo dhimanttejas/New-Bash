@@ -1,0 +1,30 @@
+-> Shell script consist of set of command to perform the task.
+-> All the command execute sequentially.
+-> The tasks like 
+	-> file manipulation, program execution, user interaction, automation of task etc.... can be done by Shell Scripting
+
+Automate or Schedual task as well. 
+Bunch of command run in one after another 
+also have different use 
+Bash is programming language using for scripting 
+
+Ch - 1 : Introduction & Welcome
+Ch - 2 : "Hello World"
+Ch - 3 : Variables
+Ch - 4 : Math Functions
+Ch - 5 : If Statements
+Ch - 6 : Exit Codes 
+Ch - 7 : While Loops
+Ch - 8 : Universal Update Script
+Ch - 9 : For Loops
+Ch - 10 : Filesystem Location for Scripts
+Ch - 11 : Data Streams
+Ch - 12 : Functions
+Ch - 13 : Case Statements
+Ch - 14 : Scheduling Jobs
+Ch - 15 :   ... Continue
+Ch - 16 : Arguments
+Ch - 17 : Creating Backup scripts
+Ch - 18 : Extened knowledge 
+
+
